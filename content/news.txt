@@ -1,0 +1,8 @@
+title: First Hosted Pug Raid - Onyxia
+date: 2025-04-02t
+text: We are currently only hosting pug raids and will host our first pug raid today for Onyxia.
+<horz>
+title: WoW CLASSIC
+date: 2025-02-03t
+text: Devinium has been founded in World of Warcraft Anniversary edition!
+<horz>

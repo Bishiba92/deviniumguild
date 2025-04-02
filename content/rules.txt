@@ -1,0 +1,73 @@
+title: Table of Contents
+date: 2025-04-02
+text: 1. Just Joined the Guild?
+2. Social
+3. Raids
+4. Loot Rules
+5. Required Software and Addons
+<horz>
+
+title: 1. Just joined the guild?
+date: 2025-04-02
+text: If you are new to our guild we expect that you will understand the various restrictions that apply to you during raids and similar.
+
+Concerning raids the main restriction will be the lowest possible loot priority, you can essentially not get any drops that are being contested by higher ranking members. Initiates do have their own priorities however.
+
+If you show up to the raids on time and perform well you will be promoted after the fifth raid.
+
+As you may have questions regarding the guild etc, you can always whisper the guild officers. They should have the answer to most of your questions, you are also welcome to contact the guild leader.
+
+We certainly hope you will thrive in our guild!
+<horz>
+
+title: 2. Social
+date: 2025-04-02
+text: We believe that being social is an important part of our guild and we encourage and welcome you to talk and joke in the in-game chat and also joining our discord channel. But then of course, there are a certain things to consider.
+
+There are a few rules and guidelines that we've set up regarding what is deemed suitable for the ingame chat, whereas the discord chat is a lot more relaxed about the guidelines. The rules are as follows:
+
+1. The chat should always be in english. Any other language is simply not allowed even if only you and your friend is online.
+2. The chat should not contain talk of drugs.
+3. The chat nor the guild is a place of drama. If there is a need to resolve problems then you contact the leader and not the officers.
+
+These rules should be followed as closely as possible.
+
+Something that we've always frowned upon in Devinium is toxicity and there is no place for toxicity in our guild. Any thoughts on other people's perfomances should be nice constructive criticism and only if the person is willing to receive it. From officers you are expected to willingly receive criticism. If you still feel something needs to be fixed then you contact the guild leader.
+
+Thanks for reading!
+<horz>
+
+title: 3. Raids
+date: 2025-04-02
+text: Raiding is pretty straight forward, sign up and show up. We will need 30-40 people for most raids.
+
+Signing up is done through our discord!
+
+We hope you will enjoy raiding with us!
+<horz>
+
+title: 4. Loot rules
+date: 2025-04-02
+text: As we are currently hosting pugs, we use the normal SR system. Anything that is Hard Reserved during the pug has been decided via loot council.
+When we are eventually able to do pure guild raids, we will be able to use our preferred loot rules:
+Devinium is utilizing a loot council, in this system the guild leader along with the officers decide which member gets the dropped item. This is based upon raid activity, raid performance, and also upon previously looted items to ensure proper item spread throughout the raid.
+
+What's important to understand is that the leadership in care about guild progress and not personal item gains. So at no point will personal gains trump the progress of the guild. Loot will always be distributed in the way we think will benefit the guild as a whole in the best possible way.
+
+If you need an item that has dropped, you will have to write "need" in the raid chat when said item is linked in the raid chat, otherwise you WILL be overlooked during the loot council. Calling it out in discord is not accepted. Once the decision is made, it’s not going to change.
+
+The two main determinants for who gets loot are:
+1. Attendance: How often this player attends raids. A player who joins every raid, but does worse than the top DPS will be prioritized simply because being there is the most important factor.
+2. Performance: How well does this player perform, this is not only about DPS, but how well mechanics are executed, how well a player reacts to communication and other things that positively affects raid progress.
+
+The most important part regarding the loot rules is that the councils decision is to be respected and the guild leaders decision is final.
+<horz>
+
+title: 5. Required software and Addons
+date: 2025-04-02
+text: The following list of Software and Addons is required to be working prior to the raid.
+
+Discord - This is our where we talk within the guild and also during raids.
+
+Deadly Boss Mods - This Addon will ensure you are on the same pull countdown as the rest of us as well as sending data to the guild leader and officers.
+<horz>
